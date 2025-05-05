@@ -2,7 +2,7 @@
 
 This project is part of a university course in Exploratory Data Analysis (EDA), and focuses on analyzing survey data about postpartum depression collected from 1,503 women.
 
-## The reson We Chose This Topic
+## The reason We Chose This Topic
 
 Postpartum depression is a critical public health issue affecting many new mothers. By analyzing relevant data, we aimed to uncover patterns that may support awareness and policy improvements, as well as contribute to reducing stigma.
 
